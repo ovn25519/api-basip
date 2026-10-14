@@ -1,6 +1,6 @@
 # BAS-IP API — актуальная версия
 
-HTTP API оборудования BAS-IP: **только текущие (current) версии** по каждому семейству.
+API оборудования BAS-IP: текущие, на момент побликации, версии по каждому семейству.
 Источник — спецификации OpenAPI, опубликованные на `developers.bas-ip.com`.
 
 ## Состав
@@ -37,8 +37,8 @@ HTTP API оборудования BAS-IP: **только текущие (current
 
 ## Быстрый старт
 
-- **Импорт в Postman/Swagger UI:** возьмите `openapi/<device>__current.json`.
-- **Человекочитаемый вид:** откройте `docs/bas-ip-api.md`.
+- **Импорт в Postman/Swagger UI:** возьми `openapi/<device>__current.json`.
+- **Человекочитаемый вид:** `docs/bas-ip-api.md`.
 - **Найти эндпоинт:** `METHODS.md`.
 
 ## Серверы и авторизация
